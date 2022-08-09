@@ -1,2 +1,2 @@
-# Personal-Portfolio-Sample
-Portfolio project, not final.
+# Personal-Portfolio
+Portfolio project.
